@@ -1,0 +1,13 @@
+/bootstrap/compiled.php
+/vendor
+/app/config
+/app/config
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+/My Project
+/obj
+Portfolio.vbproj
+Portfolio.vbproj.user
+*.config
